@@ -28,7 +28,7 @@
 .pass_no{
     position: absolute;
     top: 720px;
-    left: 670px;
+    left: 630px;
     font-size: 40px;
     color: red;
     animation: blinker 1s infinite
